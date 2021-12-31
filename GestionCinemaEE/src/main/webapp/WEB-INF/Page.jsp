@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>liste des seances</title>
+<title>Gestion de CinÃ©ma</title>
 </head>
 <body>
-  <h1> Programme du cinéma</h1>
+  <h1> Programme du cinï¿½ma</h1>
  
   
   <c:forEach items="${seance}" var="seance">

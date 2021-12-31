@@ -8,7 +8,7 @@
 <title>Gestion de Cinéma</title>
 </head>
 <body>
-  <h1> Programme du cin�ma</h1>
+  <h1> Séance dans le cin�ma</h1>
  
   
   <c:forEach items="${seance}" var="seance">
